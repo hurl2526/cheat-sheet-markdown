@@ -20,3 +20,5 @@
 * Touch: create new files like main.js index.html style.css
 * CP: copy source location to source destination 
 * MV: Move or Rename a file (copy to new location (with new name) then delete from old destination)
+
+![markdown-meme](https://media.makeameme.org/created/Markdowns-Markdowns-everywhere.jpg)
